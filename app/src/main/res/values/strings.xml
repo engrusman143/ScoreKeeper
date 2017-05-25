@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="app_heading">Champions League</string>
+    <string name="app_search">Search</string>
+    <string name="team_nameA">Real Madrid</string>
+    <string name="team_nameB">Atletico Madrid</string>
+    <string name="teamA_score">0</string>
+    <string name="teamA_Goal">Goal</string>
+    <string name="teamA_fouls">0</string>
+    <string name="teamA_foul">Foul</string>
+    <string name="teamA_corners">0</string>
+    <string name="teamA_corner">Corner Kicks</string>
+    <string name="teamA_yellowCards">0</string>
+    <string name="teamA_yellowCard">Yellow Cards</string>
+    <string name="teamB_score">0</string>
+    <string name="teamB_Goal">Goal</string>
+    <string name="teamB_fouls">0</string>
+    <string name="teamB_foul">Foul</string>
+    <string name="teamB_corners">0</string>
+    <string name="teamB_corner">Corner Kicks</string>
+    <string name="teamB_yellowCards">0</string>
+    <string name="teamB_yellowCard">Yellow Cards</string>
+    <string name="Reset_Score">RESET</string>
+
+
+</resources>
